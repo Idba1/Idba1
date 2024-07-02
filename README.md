@@ -8,7 +8,7 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 
 Skills: HTML | CSS | Ttailwindcss | JavaScript | React JS | Firebase | MongoDB
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)' alt='figma' height='40'>]
+[<img src='[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='figma' height='40'>]
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Redux | Typescript 
 
