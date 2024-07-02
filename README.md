@@ -1,5 +1,5 @@
-### Hi there 👋, Hi! I'm Monira Islam.
-#### Passionate Frontend Web Developer
+## Hi! I'm Monira Islam.
+### Passionate Frontend Web Developer
 ![Passionate Frontend Web Developer](https://i.ibb.co/StCyDC2/Teal-Green-Cyber-Neon-Gaming-Livestream-Facebook-Cover.png)
 
 I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript. I specialize in creating responsive and dynamic web applications using React JS. I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality. 
