@@ -2,7 +2,7 @@
   
 ![Passionate Frontend Web Developer](https://i.ibb.co/StCyDC2/Teal-Green-Cyber-Neon-Gaming-Livestream-Facebook-Cover.png)
 ## Hi🙋🏻! I'm Monira Islam. 
-#### A passionate Frontend Web Developer from 🇧🇩
+#### A passionate Frontend Web Developer from Bangladesh
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
