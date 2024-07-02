@@ -11,11 +11,6 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 
 - 🌱 I’m currently learning ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-  
-## 🌐 Socials: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idba1)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## ![GitHub metrics](https://metrics.lecoq.io/Idba1)  
 
