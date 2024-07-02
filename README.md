@@ -1,7 +1,13 @@
+<div align="center">
+  
 ![Passionate Frontend Web Developer](https://i.ibb.co/StCyDC2/Teal-Green-Cyber-Neon-Gaming-Livestream-Facebook-Cover.png)
-## Hi🙋🏻! 
-## I'm Monira Islam.
-### Passionate Frontend Web Developer from 🇧🇩
+## Hi🙋🏻! I'm Monira Islam. 
+#### A passionate Frontend Web Developer from 🇧🇩
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 # 💻 About Me 💁🏻‍♀️:
 I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript. I specialize in creating responsive and dynamic web applications using React JS. I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality. 
@@ -17,7 +23,13 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-## ![GitHub metrics](https://metrics.lecoq.io/Idba1)  
+![GitHub metrics](https://metrics.lecoq.io/Idba1)   
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
+<div align="center" justify="evenly">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idba1)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Idba1&show_icons=true)  
+  
+</div>
 
+<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p><a href="https://www.buymeacoffee.com/moniraislap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
