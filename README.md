@@ -6,7 +6,8 @@ I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a stron
 
 I thrive in dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build user-friendly, efficient, and visually appealing web applications.
 
-Skills: HTML | CSS | Ttailwindcss | JavaScript | React JS | Firebase | MongoDB
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 [<img src='[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='figma' height='40'>]
 - 🔭 I’m currently working on this page. 
