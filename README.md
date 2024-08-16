@@ -1,8 +1,11 @@
 <div align="center">
   
 ![Passionate Frontend Web Developer](https://i.ibb.co/StCyDC2/Teal-Green-Cyber-Neon-Gaming-Livestream-Facebook-Cover.png)
-## Hi🙋🏻! I'm Monira Islam. 
-#### A passionate Frontend Web Developer from Bangladesh
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monira+Islam!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
+</h1>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
