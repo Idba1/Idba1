@@ -8,6 +8,9 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 </div>
 
