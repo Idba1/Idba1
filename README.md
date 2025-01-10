@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<p align="center"> <a href="https://github.com/Idba1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Idba1&row=1&column=6&theme=onedark" alt="Idba1" /></a> </p>
 
 </div>
 
