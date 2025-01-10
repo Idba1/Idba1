@@ -14,13 +14,13 @@
 
 </div>
 
-# 💻 About Me 💁🏻‍♀️:
+<h2> About Me  <img src="https://media.giphy.com/media/YqkLKHqFYYMcs7dIoC/giphy.gif" width="40px" height="40px"></h2>
 I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript. I specialize in creating responsive and dynamic web applications using React JS. I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality. 
 
 I thrive in dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build user-friendly, efficient, and visually appealing web applications.
 
 💬  **moniraislam793@gmail.com**  
-## 🌐 Connect with Me
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-islam1/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091536126623)
