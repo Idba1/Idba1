@@ -39,11 +39,11 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-<!--
+
 <a href="https://github.com/Idba1">
     <img src="https://komarev.com/ghpvc/?username=Idba1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </a>
--->
+
 
 [![](https://visitcount.itsvg.in/api?id=Idba1&icon=0&color=0)](https://visitcount.itsvg.in)
 
