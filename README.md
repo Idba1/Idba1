@@ -40,11 +40,6 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 
 [![](https://visitcount.itsvg.in/api?id=Idba1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center" justify="evenly">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idba1)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Idba1&show_icons=true)  
-  
-</div>
 <div align="center">
 <table>
   <tr>
