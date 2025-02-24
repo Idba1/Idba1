@@ -53,17 +53,18 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 [![](https://visitcount.itsvg.in/api?id=Idba1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-<table>
+ <table>
   <tr>
-     <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Idba1&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="Idba1" />
-    </td>
     <td align="center">
       <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Idba1&hide=HTML&langs_count=8&layout=compact&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
+      <td align="center">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Idba1&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="anmamun0" />
+    </td>
   </tr>
 </table>
-</div>
+
+</div> 
 
 <div>
    <br><br>
