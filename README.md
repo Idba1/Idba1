@@ -8,14 +8,13 @@
 <!--
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Idba1&theme=blueberry_duo"/>
 <p>
   
 </p>
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-<p align="center"> <a href="https://github.com/Idba1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Idba1&row=1&column=6&theme=onedark" alt="Idba1" /></a> </p>
+
 
 </div>
 
@@ -54,6 +53,12 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 
 <div align="center">
  <table>
+   <tr>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idba1&theme=blueberry_duo"/>
+   </tr>
+   <tr>
+     <p align="center"> <a href="https://github.com/Idba1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Idba1&row=1&column=6&theme=onedark" alt="Idba1" /></a> </p>
+   </tr>
   <tr>
     <td align="center">
       <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Idba1&hide=HTML&langs_count=8&layout=compact&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
