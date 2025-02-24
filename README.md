@@ -2,29 +2,19 @@
   
 ![Passionate Frontend Web Developer](https://i.ibb.co/StCyDC2/Teal-Green-Cyber-Neon-Gaming-Livestream-Facebook-Cover.png)
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monira+Islam!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
-</h1>
-<!--
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Idba1)  
--->
-<p>
-  
-</p>
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Idba1)](https://github.com/ryo-ma/github-profile-trophy)
--->
-
+</h3>
 
 </div>
 
-<h2>About Me  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZkdm40YjdpNXIyaWc0c2RvNWptYWZ1dWRjbTd0NTIyaHEycDF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="40px" height="40px"></h2>
+<h3>About Me  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZkdm40YjdpNXIyaWc0c2RvNWptYWZ1dWRjbTd0NTIyaHEycDF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="40px" height="40px"></h3>
 I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript. I specialize in creating responsive and dynamic web applications using React JS. I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality. 
 
 I thrive in dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build user-friendly, efficient, and visually appealing web applications.
 
 💬  **moniraislam793@gmail.com**  
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"></h2>
+<h3>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-islam1/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091536126623)
@@ -33,13 +23,13 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26844642/monira-islam?tab=profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moniraislam793@gmail.com)
 
-<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="30px"></h2> 
+<h3>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="30px"></h3> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![API](https://img.shields.io/badge/API-005b96?style=for-the-badge&logo=api&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
-<h2> Currently Learning <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoamVobTY3ejMxcXpqNzdtZ3VzOTVxand0aXUxNXI2bjI1ZDhwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.webp" width="40px" height="40px"></h2>
+<h3> Currently Learning <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoamVobTY3ejMxcXpqNzdtZ3VzOTVxand0aXUxNXI2bjI1ZDhwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.webp" width="40px" height="40px"></h3>
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -76,5 +66,5 @@ I thrive in dynamic environments and am always eager to learn new technologies a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Idba1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<h3>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>  
 <p><a href="https://www.buymeacoffee.com/moniraislap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Idba" /></a></p> 
