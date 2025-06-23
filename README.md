@@ -58,6 +58,12 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 </div>
 
 
+<a href="https://github.com/Idba1">
+    <img src="https://komarev.com/ghpvc/?username=Idba1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</a>
+
+
+
 <h3>📊 Additional Stats</h3> 
 
 <div align="center">
@@ -65,7 +71,7 @@ I thrive in dynamic environments and am always eager to learn new technologies a
     <table style="border-collapse: collapse; width: 100%;">
         <tr>
             <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Idba1&theme=transparent" alt="GitHub Stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idba1&theme=blueberry_duo"/>
             </td>
             <td align="center" width="50%">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Idba1&theme=transparent&utcOffset=6" alt="Commit Times">
