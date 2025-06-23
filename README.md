@@ -23,7 +23,41 @@ I thrive in dynamic environments and am always eager to learn new technologies a
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26844642/monira-islam?tab=profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moniraislam793@gmail.com)
 
+<h3> ⚙️ Languages and Tools </h3>
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
+      <td style="padding: 8px; border: none; text-align: center;">Database Languages</td>
+      <td style="padding: 8px; border: none; text-align: center;">Frameworks</td>
+      <td style="padding: 8px; border: none; text-align: center;">Tools & Cloud DevOps</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" alt="Programming Icons">
+        </a>
+      </td> 
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" alt="Database Icons">
+        </a>
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,django,tailwind,bootstrap" alt="Framework Icons">
+        </a>
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel" alt="Tools & Cloud DevOps Icons">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br>
 
 <div>
    <br><br>
