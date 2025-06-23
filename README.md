@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<h3>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"></h3>
+<h3><img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"> Connect With Me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-islam1/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091536126623)
@@ -93,7 +93,7 @@
         <!-- Third Row -->
         <tr>
             <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Idba1&theme=transparent" alt="Top Languages by Repo">
+                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Idba1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
             </td>
             <td align="center" width="50%">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Idba1&theme=transparent" alt="Top Languages by Commit">
@@ -102,10 +102,3 @@
     </table>
 </div>
 
-<div>
-   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Idba1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<h3>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>  
-<p><a href="https://www.buymeacoffee.com/moniraislap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Idba" /></a></p> 
