@@ -1,19 +1,28 @@
-<div align="center">
-  
-![Passionate Frontend Web Developer](https://i.ibb.co/StCyDC2/Teal-Green-Cyber-Neon-Gaming-Livestream-Facebook-Cover.png)
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monira+Islam!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
-</h3>
-
+<!-- Flex Container for Title and Profile Views -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px; margin: 0 auto 10px auto;">
+  <!-- About Me Title with GIF -->
+  <h3 style="margin: 0; display: flex; align-items: center;">
+    👩‍💻 About Me
+  </h3>
+<!-- About Me Paragraph -->
+<div style="max-width: 900px; margin: 0 auto;">
+  <p>
+    I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript.
+    I specialize in creating responsive and dynamic web applications using React JS.
+    I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality.
+    <br>
+    I thrive in dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build user-friendly,
+    efficient, and visually appealing web applications.
+  </p>
 </div>
 
-<h3>About Me  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZkdm40YjdpNXIyaWc0c2RvNWptYWZ1dWRjbTd0NTIyaHEycDF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="40px" height="40px"></h3>
-I'm Monira Islam, a dedicated and passionate Frontend Web Developer with a strong foundation in HTML, CSS, TailwindCSS, and JavaScript. I specialize in creating responsive and dynamic web applications using React JS. I have experience working with Firebase for backend services and MongoDB for database management, and I am proficient in integrating APIs to enhance functionality. 
 
-I thrive in dynamic environments and am always eager to learn new technologies and improve my skills. My goal is to build user-friendly, efficient, and visually appealing web applications.
+  <!-- Profile View Badge -->
+  <a href="https://github.com/Idba1">
+    <img src="https://komarev.com/ghpvc/?username=Idba1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  </a>
+</div>
 
-💬  **moniraislam793@gmail.com**  
 <h3>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-islam1/)
@@ -56,11 +65,6 @@ I thrive in dynamic environments and am always eager to learn new technologies a
     </tr>
   </table>
 </div>
-
-
-<a href="https://github.com/Idba1">
-    <img src="https://komarev.com/ghpvc/?username=Idba1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-</a>
 
 
 
